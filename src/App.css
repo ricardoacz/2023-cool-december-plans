@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  max-width: 300px;
+}
+
+.list {
+  border: solid 2px red;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.item {
+  display: flex;
+  border: solid 2px purple;
+  justify-content: center;
+  align-items: center;
+}
+
+.item:hover {
+  background-color: bisque;
+}
