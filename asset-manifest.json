@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/2023-cool-december-plans/static/css/main.0fabeb0c.css",
+    "main.js": "/2023-cool-december-plans/static/js/main.ecad6adb.js",
+    "static/js/787.f07cb172.chunk.js": "/2023-cool-december-plans/static/js/787.f07cb172.chunk.js",
+    "static/media/ohcanada.gif": "/2023-cool-december-plans/static/media/ohcanada.d83a3f0eb77020d42082.gif",
+    "static/media/ice-skating-bambi.gif": "/2023-cool-december-plans/static/media/ice-skating-bambi.de9dd6e6561d9f4dfe87.gif",
+    "static/media/logo.svg": "/2023-cool-december-plans/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/2023-cool-december-plans/index.html",
+    "main.0fabeb0c.css.map": "/2023-cool-december-plans/static/css/main.0fabeb0c.css.map",
+    "main.ecad6adb.js.map": "/2023-cool-december-plans/static/js/main.ecad6adb.js.map",
+    "787.f07cb172.chunk.js.map": "/2023-cool-december-plans/static/js/787.f07cb172.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fabeb0c.css",
+    "static/js/main.ecad6adb.js"
+  ]
+}
